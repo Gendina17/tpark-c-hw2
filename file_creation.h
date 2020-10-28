@@ -1,0 +1,7 @@
+#ifndef HOMEWORK2_FILE_CREATION_H
+#define HOMEWORK2_FILE_CREATION_H
+
+
+void file_creation();
+
+#endif //HOMEWORK2_FILE_CREATION_H
