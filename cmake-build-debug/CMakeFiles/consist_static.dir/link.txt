@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconsist_static.a  CMakeFiles/consist_static.dir/consist_static/logic_consist.c.o
+/usr/bin/ranlib libconsist_static.a

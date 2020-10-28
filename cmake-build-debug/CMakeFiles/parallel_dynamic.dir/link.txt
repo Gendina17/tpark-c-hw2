@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC --coverage -g  -shared -Wl,-soname,libparallel_dynamic.so -o libparallel_dynamic.so CMakeFiles/parallel_dynamic.dir/parallel_dynamic/logic_parallel.c.o 
